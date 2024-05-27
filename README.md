@@ -1,0 +1,2 @@
+# ManuscriptAIReader
+OCR for manuscripts
